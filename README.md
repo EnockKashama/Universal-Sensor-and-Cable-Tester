@@ -300,6 +300,9 @@ MAP_DETECTION,<pin_a>-><pin_b>
 
 ---
 
+## Enclosure
+_ **Onshape ENclosure Link: https://cad.onshape.com/documents/77dd7369e92edf708e8c193e/w/8bffdc50b152b12f82e31c56/e/991ae3f50e2370966ed71790
+
 ## What I Learned
 
 - **Full ESP-IDF migration** from Arduino framework including custom peripheral drivers
