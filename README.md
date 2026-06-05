@@ -1,4 +1,4 @@
-# Universal Cable Tester
+# Universal Sensor & Cable Tester
 
 > A production-grade cable continuity tester built on ESP32-S3, featuring real-time diagnostics, multi-sensor temperature validation, and cloud-based device monitoring via Memfault.
 
@@ -12,7 +12,7 @@
 
 ## Overview
 
-The Universal Cable Tester is a standalone embedded device designed to validate cable assemblies in a manufacturing environment. It tests up to 8 configurable cable types for continuity faults and short circuits, validates NTC thermistor sensors, and maps unknown pin connections — all through a custom touchscreen-style UI on a 3.5" TFT display.
+The Universal Cable Tester is a standalone embedded device designed to validate sensors and cable assemblies in a manufacturing environment. It tests configurable cable types for continuity faults and short circuits, validates NTC thermistor sensors, and maps unknown pin connections — all through a custom touchscreen-style UI on a 3.5" TFT display.
 
 The project was originally built with PlatformIO and the Arduino framework, then fully migrated to **ESP-IDF** for production use, enabling access to the full ESP32-S3 hardware stack, FreeRTOS task management, and Memfault's device reliability platform.
 
