@@ -1,0 +1,3 @@
+dependencies:
+  idf: ">=5.0.0"
+  memfault/memfault-firmware-sdk: "^1.39.0"
