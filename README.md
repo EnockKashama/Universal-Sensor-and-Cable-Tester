@@ -320,4 +320,11 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## Author
 
-Built as part of an embedded systems project at [Plentify](https://plentify.io).
+## Author
+
+**Enock Kashama** — Embedded Software Engineer passionate about 
+reliable firmware, IoT connectivity and production-grade device monitoring.
+
+- 🔗 [GitHub](https://github.com/EnockKashama)
+- 💼 [LinkedIn](https://www.linkedin.com/in/enockkabamba/)
+- 📧 henockkashama94@gmail.com
